@@ -1,2 +1,8 @@
 # python-cli-practice
-Python CLI practice programs
+##programs
+-Todo app
+-Number Guess Game
+-Calculator
+
+##Language
+Python
