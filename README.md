@@ -1,8 +1,8 @@
 # python-cli-practice
-##programs
+## programs
 -Todo app
 -Number Guess Game
 -Calculator
 
-##Language
+## Language
 Python
